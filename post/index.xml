@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Binary Sear.ch</title>
+    <link>http://binarysear.ch/post/</link>
+    <description>Recent content in Posts on Binary Sear.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Apr 2016 20:53:05 +0100</lastBuildDate>
+    <atom:link href="http://binarysear.ch/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://binarysear.ch/post/test-post/</link>
+      <pubDate>Thu, 21 Apr 2016 20:53:05 +0100</pubDate>
+      
+      <guid>http://binarysear.ch/post/test-post/</guid>
+      <description>&lt;p&gt;This is my first post! I&amp;rsquo;m just going to be checking out &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s some &lt;strong&gt;BOLD TEXT&lt;/strong&gt; and, of course, never forget the &lt;em&gt;italics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
