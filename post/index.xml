@@ -6,18 +6,86 @@
     <description>Recent content in Posts on Binary Sear.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Apr 2016 20:53:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Apr 2016 18:01:43 +0100</lastBuildDate>
     <atom:link href="http://binarysear.ch/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Test Post</title>
-      <link>http://binarysear.ch/post/test-post/</link>
-      <pubDate>Thu, 21 Apr 2016 20:53:05 +0100</pubDate>
+      <title>college_year &#43;= 1</title>
+      <link>http://binarysear.ch/post/year-1/</link>
+      <pubDate>Fri, 22 Apr 2016 18:01:43 +0100</pubDate>
       
-      <guid>http://binarysear.ch/post/test-post/</guid>
-      <description>&lt;p&gt;This is my first post! I&amp;rsquo;m just going to be checking out &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator.&lt;/p&gt;
+      <guid>http://binarysear.ch/post/year-1/</guid>
+      <description>
 
-&lt;p&gt;Here&amp;rsquo;s some &lt;strong&gt;BOLD TEXT&lt;/strong&gt; and, of course, never forget the &lt;em&gt;italics&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Today I had my very last lecture of first year; it&amp;rsquo;s definitly a weird feeling to be done.&lt;/p&gt;
+
+&lt;p&gt;I wanted to write a post that summed up the year somewhat for prospective students as I wasn&amp;rsquo;t really sure what to expect when I was looking into CPSSD for my own CAO. I know my &lt;em&gt;comrade&lt;/em&gt; &lt;a href=&#34;http://github.com/iandioch&#34;&gt;Noah&lt;/a&gt; has done something similar &lt;a href=&#34;http://mycode.doesnot.run/posts/2016/01/03/cpssd.html&#34;&gt;here&lt;/a&gt; but it was for only the first semester.&lt;/p&gt;
+
+&lt;p&gt;Without further ado, here&amp;rsquo;s my breakdown of the CPSSD coursework:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ms121-it-mathmatics:99a2caed9673b24c7dad482275053d26&#34;&gt;MS121 - IT Mathmatics&lt;/h3&gt;
+
+&lt;p&gt;This is the maths module, mainly covering Leaving Cert higher level topics. If you did well in your LC maths then this shouldn&amp;rsquo;t bring about too much issue. It spans both semesters and finishes in a big exam worth 70%.&lt;/p&gt;
+
+&lt;p&gt;A word of warning though: people from previous years have failed this module because they left all their work to last minute, you&amp;rsquo;d be surprised how quickily you can fall out of practice.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ca172-problem-solving-creativity-critical-thinking:99a2caed9673b24c7dad482275053d26&#34;&gt;CA172 - Problem-solving, Creativity &amp;amp; Critical Thinking&lt;/h3&gt;
+
+&lt;p&gt;This module is all about thinking about thinking. Fair warning: you&amp;rsquo;re gonna hear the work &amp;ldquo;metacognition&amp;rdquo; &lt;em&gt;a lot&lt;/em&gt;. It&amp;rsquo;s only for semester 1, it&amp;rsquo;s 50:50 continious assessment to exam, there&amp;rsquo;s a manageable project.&lt;/p&gt;
+
+&lt;p&gt;Overall: &lt;em&gt;You&amp;rsquo;ll be grand&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ca103-computer-systems:99a2caed9673b24c7dad482275053d26&#34;&gt;CA103 - Computer Systems&lt;/h3&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t actually do this semseter 1 module (I picked CA169 instead) but I&amp;rsquo;ve heard it&amp;rsquo;s actually pretty decent. You cover topics such as how data is stored on disk (spoiler: it&amp;rsquo;s binary) and how logic gates work.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been told it&amp;rsquo;s the easiest module, your mileage may vary. But if you&amp;rsquo;re in CPSSD then chances are you&amp;rsquo;ve come across a decent bit of the course content already.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ca169-networks-and-internets:99a2caed9673b24c7dad482275053d26&#34;&gt;CA169 - Networks and Internets&lt;/h3&gt;
+
+&lt;p&gt;This is option number two when you&amp;rsquo;re picking your modules and it&amp;rsquo;s in semester 2. This is definitly a tricky module if you had no real prior experience with networks. It focuses mainly on the different protocalls at different layers in the TCP/IP stack with some practical elements coming in for the lab reports.&lt;/p&gt;
+
+&lt;p&gt;I definitely feel I learned a good bit in this module, but it was tough.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ca117-computer-programming-ii:99a2caed9673b24c7dad482275053d26&#34;&gt;CA117 - Computer Programming II&lt;/h3&gt;
+
+&lt;p&gt;This is a semester 2 module, it&amp;rsquo;s a continuation of CA116 that the Computer Applications students would have done the previous semester (CPSSDs get a buy to the next round).  Basically, this module focuses on object oriented programming in Python and it also covers a bit of the more advanced syntax.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve never used Python before it might be a good idea to get some practice in before starting but as long as you keep up with the labs, again, &lt;em&gt;you&amp;rsquo;ll be grand&lt;/em&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;ca110-first-year-practicum:99a2caed9673b24c7dad482275053d26&#34;&gt;CA110 - First Year Practicum&lt;/h3&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;the big &amp;lsquo;un&lt;/strong&gt;. This is the module that covers the project and also the Netflix problems. It&amp;rsquo;s 100% CA and is worth the same number of credits as all the other modules combined. The two semesters are quite different so I&amp;rsquo;ll hit you with a couple of paragraphs.&lt;/p&gt;
+
+&lt;p&gt;In semester 1 we spent the first while going over some programming concepts such as recursion and trees. About half way through we were given a crop of programming excercises (known as Netflix problems &lt;em&gt;because you get them all at once&lt;/em&gt;, see what they did there?). We had to pick 4 from 6 to complete.&lt;/p&gt;
+
+&lt;p&gt;They were tricky enough and ranged from generating sentences from a corpus of tweets to implementing a spellchecker that used the &lt;em&gt;minimum edit distance&lt;/em&gt; algorithm. There was also a team excercise where we were split into groups and had to work on a project for 4 weeks.&lt;/p&gt;
+
+&lt;p&gt;Semester 2 was entirely about the project, in the last days of S1 we pitched ideas and formed teams (3 teams of 5, in the end) so we were able to get started straight away. The semester was broken into three &lt;em&gt;&amp;ldquo;sprints&amp;rdquo;&lt;/em&gt; and for each one we had to pesent on our progress from the previous one and do a different presentation on what we planned to do for the next one.&lt;/p&gt;
+
+&lt;p&gt;I felt the first semester was a decent warmup to the main focus of the year, the semseter 2 project, and I felt the project was a huge learning experience (I know it sounds cheesy). I was a decent individual coder so I felt that would translate well to the project, turns out groupwork is a whole different animal and I really had to learn a good bit about managing a team, dividing up work and the general politics of it all.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you want my honest opinion I really believe that CPSSD is the best computer-related course in the country (even if you have to keep telling people you&amp;rsquo;re studying &lt;em&gt;&amp;ldquo;computers&amp;rdquo;&lt;/em&gt; rather than &lt;em&gt;&amp;ldquo;Computational Problem Solving and Software Development&amp;rdquo;&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;So I hope this summary was of some use to you! Keep in mind I&amp;rsquo;ve really only barely touched on the college experience, there&amp;rsquo;s things like societies, the Students&amp;rsquo; Union, nights out (of course), and loads of other things. But you&amp;rsquo;ll figure that out fine.&lt;/p&gt;
+
+&lt;p&gt;If you are a prospective student and you&amp;rsquo;ve got some questions about the course then feel free to get in contact with me! Links are in the sidebar.&lt;/p&gt;
+
+&lt;p&gt;-Cian&lt;/p&gt;
 </description>
     </item>
     
