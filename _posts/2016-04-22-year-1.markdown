@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Year += 1"
+date:   2016-04-22 17:29:37 +0000
+categories: college cpssd dcu
+---
+Today I had my very last lecture of first year; it’s definitely a weird feeling to be done.
+
+I wanted to write a post that summed up the year somewhat for prospective students as I wasn’t really sure what to expect when I was looking into CPSSD for my own CAO. I know my comrade Noah has done something similar here but it was for only the first semester.
+
+Without further ado, here’s my breakdown of the CPSSD coursework:
+
+## MS121 - IT Mathmatics
+This is the maths module, mainly covering Leaving Cert higher level topics. If you did well in your LC maths then this shouldn’t bring about too much issue. It spans both semesters and finishes in a big exam worth 70%.
+
+A word of warning though: people from previous years have failed this module because they left all their work to last minute, you’d be surprised how quickily you can fall out of practice.
+
+## CA172 - Problem-solving, Creativity & Critical Thinking
+This module is all about thinking about thinking. Fair warning: you’re gonna hear the work “metacognition” a lot. It’s only for semester 1, it’s 50:50 continuous assessment to exam, there’s a manageable project.
+
+Overall: _You’ll be grand_
+
+## CA103 - Computer Systems
+I didn’t actually do this semseter 1 module (I picked CA169 instead) but I’ve heard it’s actually pretty decent. You cover topics such as how data is stored on disk (spoiler: it’s binary) and how logic gates work.
+
+I’ve been told it’s the easiest module, your mileage may vary. But if you’re in CPSSD then chances are you’ve come across a decent bit of the course content already.
+
+## CA169 - Networks and Internets
+This is option number two when you’re picking your modules and it’s in semester 2. This is definitely a tricky module if you’ve had no real prior experience with networks. It focuses mainly on the protocols at different layers in the TCP/IP stack with some practical elements coming in for the lab reports.
+
+I definitely feel I learned a good bit in this module, but it was tough.
+
+## CA117 - Computer Programming II
+This is a semester 2 module, it’s a continuation of CA116 that the Computer Applications students would have done the previous semester (CPSSDs get a buy to the next round). Basically, this module focuses on object oriented programming in Python and it also covers a bit of the more advanced syntax.
+
+If you’ve never used Python before it might be a good idea to get some practice in before starting but as long as you keep up with the labs, again, you’ll be grand.
+
+## CA110 - First Year Practicum
+Finally, the big ‘un. This is the module that covers the project and also the Netflix problems. It’s 100% CA and is worth the same number of credits as all the other modules combined. The two semesters are quite different so I’ll hit you with a couple of paragraphs.
+
+In semester 1 we spent the first while going over some programming concepts such as recursion and trees. About half way through we were given a crop of programming excercises (known as Netflix problems because you get them all at once, see what they did there?). We had to pick 4 from 6 to complete.
+
+They were tricky enough and ranged from generating sentences from a corpus of tweets to implementing a spellchecker that used the minimum edit distance algorithm. There was also a team excercise where we were split into groups and had to work on a small project for 4 weeks.
+
+Semester 2 was entirely about the main project, in the last days of S1 we pitched ideas and formed teams (3 teams of 5, in the end) so we were able to get started straight away. The semester was broken into three “sprints” and for each one we had to pesent on our progress from the previous one and do a different presentation on what we planned to do for the next one.
+
+I felt the first semester was a decent warmup to the main focus of the year, the semseter 2 project, and I felt the project was a huge learning experience (I know it sounds cheesy). I was a decent individual coder so I felt that would translate well to the project, turns out groupwork is a whole different animal and I really had to learn a good bit about managing a team (shoutout to Noah and Aaron), dividing up work and the general politics of it all.
+
+So if you want my honest opinion, I really believe that CPSSD is the best computer-related course in the country (even if you have to keep telling people you’re studying “computers” rather than “Computational Problem Solving and Software Development”)
+
+I hope this summary was of some use to you! Keep in mind I’ve really only barely touched on the college experience, there’s things like societies, the Students’ Union, nights out (of course), and loads of other stuff. But you’ll figure that out fine.
+
+If you are a prospective student and you’ve got some questions about the course then feel free to get in contact with me! Links are in the sidebar.
+
+-Cian
