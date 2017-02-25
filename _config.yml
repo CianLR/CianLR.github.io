@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: BinarySear.ch
+email: cian.ruane9@mail.dcu.ie
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Student of CPSSD in DCU, competitive programmer, former Google SRE intern. 
+  Do you ever buy a cool domain and then feel obligated to actually do
+  something with it? That's this. I'm planning to post updates on projects,
+  competitions, and general software dev life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://binarysear.ch" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: CianLR
+github_username:  CianLR
 
 # Build settings
 markdown: kramdown
@@ -32,3 +33,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - build.sh
