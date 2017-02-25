@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BinarySear.ch
+title: BinarySear.ch - Cian Ruane
 email: cian.ruane9@mail.dcu.ie
 description: > # this means to ignore newlines until "baseurl:"
   Student of CPSSD in DCU, competitive programmer, former Google SRE intern. 
